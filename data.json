@@ -1,19 +1,20 @@
 {
-    "profile": {
-      "name": "Jennie Kim",
-      "bio": "J. Hello Guys",
-      "description": "Follow me and like my post",
-      "followers": "10.7 M",
-      "likes": "108.3 M",
-      "backgroundImageUrl": "https://i.ibb.co/cL0kGQM/27f9a059-f454-426b-938f-6f146a29354e.jpg",
-      "profileImageUrl": "https://i.ibb.co/5cxZjZr/806da2cb38b43ace6f2e15bc6c2f6da5.jpg",
-      "photos": [
-        { "photo1": "https://i.ibb.co/2WL432F/49f14415-90bd-43a9-8a9f-f64b57f4ae51.jpg" },
-        { "photo2": "https://i.ibb.co/NCWSBn8/7da19131-b32d-47a2-87e6-ac81d9d0b0d7.jpg" },
-        { "photo3": "https://i.ibb.co/GWJ5SMw/4fdd06c1-905c-4849-9c07-5c06f60bf603.jpg" },
-        { "photo4": "https://i.ibb.co/7YKNT8n/272910a7-1342-4e3f-afcf-c82f14d87861.jpg" },
-        { "photo5": "https://i.ibb.co/TB3y0Kj/773c9b39-dd8f-4230-8525-b3d1d2ed2f49.jpg" },
-        { "photo6": "https://i.ibb.co/kXm11gb/46a9d304-47fe-4066-ac3d-a459597ef149.jpg" }
-      ]
-    }
+  "profile": {
+    "name": "Jennie Kim",
+    "bio": "J. Hello Guys",
+    "description": "Follow me and like my post",
+    "followers": "10.7 M",
+    "likes": "108.3 M",
+    "backgroundImageUrl": "https://i.ibb.co/cL0kGQM/27f9a059-f454-426b-938f-6f146a29354e.jpg",
+    "profileImageUrl": "https://i.ibb.co/5cxZjZr/806da2cb38b43ace6f2e15bc6c2f6da5.jpg",
+    "photos": [
+      { "photo1": "https://i.ibb.co/2WL432F/49f14415-90bd-43a9-8a9f-f64b57f4ae51.jpg" },
+      { "photo2": "https://i.ibb.co/NCWSBn8/7da19131-b32d-47a2-87e6-ac81d9d0b0d7.jpg" },
+      { "photo3": "https://i.ibb.co/GWJ5SMw/4fdd06c1-905c-4849-9c07-5c06f60bf603.jpg" },
+      { "photo4": "https://i.ibb.co/7YKNT8n/272910a7-1342-4e3f-afcf-c82f14d87861.jpg" },
+      { "photo5": "https://i.ibb.co/TB3y0Kj/773c9b39-dd8f-4230-8525-b3d1d2ed2f49.jpg" },
+      { "photo6": "https://i.ibb.co/kXm11gb/46a9d304-47fe-4066-ac3d-a459597ef149.jpg" }
+    ]
+  }
 }
+
